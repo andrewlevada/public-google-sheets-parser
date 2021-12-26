@@ -31,11 +31,6 @@
   },
   "homepage": "https://github.com/fureweb-com/public-google-sheets-parser.git",
   "dependencies": {},
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn lint && yarn test"
-    }
-  },
   "eslintIgnore": [
     "node_modules",
     "package",
